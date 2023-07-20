@@ -1,4 +1,10 @@
 Jeffrey Yan
+
+See analysis.pdf for a summary.
+
+This program takes a RateMD corpus and generates topics using an LDA model.
+Also, it separates the corpus into gender-separated sub-collections and uses the ccLDA model to generate topics.
+
 #Run programs:
 part1.ipynb for Part 1
 task2a.ipynb for Part 2a
